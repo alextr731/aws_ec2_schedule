@@ -9,6 +9,11 @@ Example infrastructure for AWS EC2
 1. Set Terraform local variable for start and stop time:
 	- example: 10:00-20:00
 2. Run Terraform
+	-	terraform apply
 3. Check state of EC2
+	- you can use AWS CLI or AWS Console
 4. Destroy Terraform
+	-	terraform destroy
+
+	
 
