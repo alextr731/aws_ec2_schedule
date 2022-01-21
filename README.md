@@ -15,5 +15,9 @@ Example infrastructure for AWS EC2
 4. Destroy Terraform
 	-	terraform destroy
 
-	
+### Tech stack
+- AWS CLI
+- at
+- bash
+- Terraform
 
