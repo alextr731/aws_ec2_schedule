@@ -1,5 +1,16 @@
-# Object file
-*.o
+.env
+*.env
+env
+#custom 
+*.tfstate
+*.tfvars
+*.terragrunt-cache/
+*.terragrunt-cache
+*.secrets
 
-# Ada Library Information
-*.ali
+
+.tfstate
+.tfvars
+.terragrunt-cache/
+.terragrunt-cache
+.secrets
