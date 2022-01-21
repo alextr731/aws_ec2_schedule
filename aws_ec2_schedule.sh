@@ -1,6 +1,10 @@
 #!/bin/bash
+# IMPORTANT
+# Format for work is: 10:00-17:00
+
 # work_hours="23:26-23:28"
 # instance_id="i-0310fca271e362ad4"
+
 
 work_hours=$1
 instance_id=$2
